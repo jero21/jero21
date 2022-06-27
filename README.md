@@ -1,0 +1,6 @@
+- 👋 Hola mundo, soy @jero21 Jeremías Mora, vivo en Temuco/Chile, Especialista en Ingeniería de Software en Universidad de La Frontera, Fullstack: Laravel, NodeJs, Vuejs.
+- He trabajado para en empresas de desarrollo de Software, tambien para el Ministerio Publico Chile, y realizando Partime de "Dsarrollo de Software y Startups" y "Testing"  
+- 👀 Me interesa aprender sobre Devops, tengo nociones de Dokker, Dokku, Bitbucket Pipelines.
+- 🌱 Estoy aprendiendo ReactJs, Docker y mejorando NodeJs
+- 💞️ estoy buscando colaborar en empresa de desarrollo que integre metodologias y tecnologías de vanguardia para estar siempre al día.
+- 📫 Contácteme a: jeremias.morac@gmail.com
